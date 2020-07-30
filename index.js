@@ -23,4 +23,4 @@ httpServer.listen(3000, () => {
 
 
 // here i send an object (counter) to the browser, but i can also send a function in the place of an object with a callback
-// like in the example https://gist.github.com/daffl/0647ac1a85458389c3b253a1388eb194
+// example in the link https://gist.github.com/daffl/0647ac1a85458389c3b253a1388eb194
